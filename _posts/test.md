@@ -1,0 +1,13 @@
+---
+layout: post
+title: "script test"
+category: example2
+---
+
+> [root@ipa ~]# man ls
+> [root@ipa ~]# man whoami
+> [root@ipa ~]# ls
+> anaconda-ks.cfg  ca-agent.p12  cacert.p12  syslog.csr
+> [root@ipa ~]# pwd
+> /root
+> [root@ipa ~]#
